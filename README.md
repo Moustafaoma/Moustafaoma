@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mostafa Omar</h1>
-<h3 align="center">A passionate Back-end developer from Egypt</h3>
+<h3 align="center">A passionate Back-end developer .net from Egypt</h3>
     <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" alt="coding" style="float: right; width: 400px;">
 
 <p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moustafaoma" alt="moustafaoma" /></a> </p>
